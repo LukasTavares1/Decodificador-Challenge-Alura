@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/last-commit/LukasTavares1/Decodificador-Challenge-Alura?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
+  <img src="https://img.shields.io/github/stars/LukasTavares1?style=social">
 </p>
 
 <p align="center">
